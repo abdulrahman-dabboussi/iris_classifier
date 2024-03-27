@@ -1,2 +1,2 @@
 # iris_classifier
-this repo will be used with git 
+this repo will hold a small ml project for iris dataset classifier 
